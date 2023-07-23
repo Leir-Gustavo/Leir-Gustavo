@@ -1,4 +1,4 @@
-### Olá me chamo Leir Gustavo, sou um desenvolvedor Full Stack em formação. No momento possuo conhecimento básico em Node.js, DOM, JavaScript, SQL e R.👋
+### Olá me chamo Leir Gustavo, sou um desenvolvedor Full Stack em formação. No momento possuo conhecimento básico em Node.js, DOM, React, JavaScript, SQL e R.👋
 
 
 
