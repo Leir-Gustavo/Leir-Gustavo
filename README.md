@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá me chamo Leir Gustavo, sou um desenvolvedor Full Stack em formação. No momento possuo conhecimento básico em Node.js, DOM, JavaScript, SQL e R.👋
+
+
+
 
 <!--
 **Leir-Gustavo/Leir-Gustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
